@@ -1,0 +1,15 @@
+.contact{
+    margin-bottom: 20rem;
+}
+.pad-mar__contact{
+    padding: 1rem;
+    margin: 1rem;
+}
+.button.is-primary.is-outlined{
+    border-color: #7510F7;
+    color: #7510F7;
+}
+.button.is-primary.is-outlined:hover{
+    background-color:#7510F7 ;
+    color: white;
+}

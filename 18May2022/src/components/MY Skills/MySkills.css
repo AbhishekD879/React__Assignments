@@ -1,0 +1,22 @@
+@import 'bulma/css/bulma.css';
+.image img{
+ width: 100px;
+ height: 100px;
+ object-fit: contain;
+}
+.myskills{
+    z-index: 1;
+    position: relative;
+    top:-15rem;
+}
+.column{
+    border: 0px solid #E6ECF8;
+    border-right: 1px solid #E6ECF8;
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+.content ul{
+    margin-left: 0;
+}
